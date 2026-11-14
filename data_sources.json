@@ -365,6 +365,14 @@
       "categories": [
         "global"
       ]
+    },
+    {
+      "name": "Remote1st",
+      "url": "https://www.remote1stjobs.com",
+      "short_description": "Remote jobs across the USA, UK, Canada, Europe and Australia, showing where each employer can hire from.",
+      "categories": [
+        "global"
+      ]
     }
   ],
   "tools": [
